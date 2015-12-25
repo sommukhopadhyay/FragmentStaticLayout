@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/som/Workspace/Android/Training/FragmentStaticLayout/app/build/intermediates/res/merged/debug/layout/title_item.xml",
+        "source": "/home/som/Workspace/Android/Training/FragmentStaticLayout/app/src/main/res/layout/title_item.xml"
+    },
+    {
+        "merged": "/home/som/Workspace/Android/Training/FragmentStaticLayout/app/build/intermediates/res/merged/debug/layout/quote_fragment.xml",
+        "source": "/home/som/Workspace/Android/Training/FragmentStaticLayout/app/src/main/res/layout/quote_fragment.xml"
+    },
+    {
+        "merged": "/home/som/Workspace/Android/Training/FragmentStaticLayout/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/som/Workspace/Android/Training/FragmentStaticLayout/app/src/main/res/layout/main.xml"
+    }
+]
